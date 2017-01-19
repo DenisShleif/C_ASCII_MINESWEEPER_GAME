@@ -22,4 +22,4 @@ MAIN SKILLS USED:
  - Recursive function for revealing the board
  - Parsing function
  - User enters coordinates under the following format (x,y). The program is able to extract the x and y coordinates even when spaces are put in between each character
- - FILE/IO to save and load games and store statistics
+ - FILE I/O to save and load games and store statistics
